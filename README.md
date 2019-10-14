@@ -22,4 +22,5 @@ std_data = cs228.standardization.do(data)
 import sida-cs228 as cs228
 data = ... # shape (5,4,6,n)
 cs228.show(data[:,:,:,0], view_point="front", scale="unit") # show the first hand
+cs228.show(data[:,:,:,1], view_point="side", scale="fit", fname="hand1.png") # save the side view of the second hand to a png file
 ```
