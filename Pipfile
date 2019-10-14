@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 pytest = "*"
+tox = "*"
 
 [packages]
 sida-cs228 = {path = ".",editable = true}
