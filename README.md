@@ -42,3 +42,11 @@ The result of `do` function will satisfy those conditions:
 
 (4) the tip of the metacarpal bone of the thumb will be on the +z side.
 ```
+
+After standardization, the front view will be like this:
+
+![Front view](images/Liu_train2_std_front.png)
+
+And the side view will be like this:
+
+![Side View](images/Liu_train2_std_side.png)
