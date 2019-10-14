@@ -50,3 +50,7 @@ After standardization, the front view will be like this:
 And the side view will be like this:
 
 ![Side View](images/Liu_train2_std_side.png)
+
+The main source code is in this file:
+
+https://github.com/liusida/sida-cs228/blob/master/sida/cs228/standardize.py
